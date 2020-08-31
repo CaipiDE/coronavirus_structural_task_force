@@ -10,7 +10,7 @@
 
 ## Description
 
-Full length 3C-like protease from SARS-CoV-2 forming a dimer. This protein is bound to a small molecule fragment, {N}-[2-(5-fluoranyl-1~{H}-indol-3-yl)ethyl]ethanamide. This X-ray crystal structure has data to a resolution of 1.59Å
+Full length 3C-like protease from SARS-CoV-2 forming a dimer. This protein is bound to a small molecule fragment, ~{N}-[2-(5-fluoranyl-1~{H}-indol-3-yl)ethyl]ethanamide. This X-ray crystal structure has data to a resolution of 1.59Å
 
 ## Basefolder
 
@@ -62,7 +62,7 @@ Available. **Click** [here](https://zenodo.org/record/3730472)
 ## Other relevant links 
 **PDBe**:  https://www.ebi.ac.uk/pdbe/entry/pdb/5r7z
 
-**PDBe-KB**: https://www.ebi.ac.uk/pdbe/pdbe-kb/covid19/PRO_0000449623 
+**PDBe-KB**:https://www.ebi.ac.uk/pdbe/pdbe-kb/covid19/PRO_0000449623 
  
 **PDBr**: https://www.rcsb.org/structure/5r7z 
 
